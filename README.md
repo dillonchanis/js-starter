@@ -38,5 +38,5 @@ Checks your npm packages for possible security risks.
 **.webpack.config.production.js**- Webpack Config for Production
 
 ## Todo ##
-[ ] Live Reload
-[ ] Automate Deployment
+- [ ] Live Reload
+- [ ] Automate Deployment
